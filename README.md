@@ -10,3 +10,6 @@ ubuntu@ec2-18-222-110-54.us-east-2.compute.amazonaws.com
 https://drive.google.com/file/d/1TaClmJz40Pi4ZAR4vZYI7eVe2ojpXK__/view
 # -*- coding: utf-8 -*-
 
+https://github.com/cpopp/MicroTelnetServer/blob/master/utelnet/utelnetserver.py
+
+https://pythonprogramminglanguage.com/telnet/
