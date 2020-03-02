@@ -27,6 +27,8 @@ if __name__ == "__main__":
 	host = sys.argv[1]
 	port = int(sys.argv[2])
 	
+https://workwiththebest.intraway.com/blog-post/implementing-python-telnet-server-testing-development/
+	
 	s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 	s.settimeout(2)
 	
